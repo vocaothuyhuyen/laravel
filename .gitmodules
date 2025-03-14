@@ -1,0 +1,3 @@
+[submodule "larave-demo-huyenngoo"]
+	path = larave-demo-huyenngoo
+	url = ../../laravel/laravel.git
